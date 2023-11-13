@@ -1,0 +1,19 @@
+{
+  "name": "npm-git-package",
+  "version": "1.0.0",
+  "description": "A basic npm package published to and distributed from git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No tests'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulbrimicombe/npm-git-package.git"
+  },
+  "author": "Paul Brimicombe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulbrimicombe/npm-git-package/issues"
+  },
+  "homepage": "https://github.com/paulbrimicombe/npm-git-package#readme"
+}
