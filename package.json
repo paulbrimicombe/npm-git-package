@@ -5,8 +5,7 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "test": "echo 'No tests'",
-    "build": "echo 'No build steps'"
+    "test": "echo 'No tests'"
   },
   "repository": {
     "type": "git",
