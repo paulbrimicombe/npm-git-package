@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A basic npm package published to and distributed from git",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo 'No tests'"
   },
